@@ -16,16 +16,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📚 Projects
 
-### 3D Viewer with Three.js
-
-A dynamic 3D viewer that allows you to interact with various geometries in a 3D space. This project includes features like:
-
-- Adding random geometries with random colors
-- Creating and manipulating different 3D shapes like cones, spheres, rings, torus, cubes, and pyramids
-- Changing colors of the shapes
-- Toggling wireframe mode
-- Responsive design for different screen sizes
-
 ### Nxt Trendz (ECommerce Clone - Amazon, Flipkart)
 
 Developed a cutting-edge e-commerce platform inspired by Amazon and Flipkart.
@@ -35,6 +25,16 @@ Security: Implemented secure authentication and authorization with JWT tokens an
 Technologies Used: React JS, JavaScript, CSS, Bootstrap, React Router, REST API, Local Storage, JWT, Authorization, Authentication.
 
 Live Demo:newShopping.ccbp.tech
+
+### 3D Viewer with Three.js
+
+A dynamic 3D viewer that allows you to interact with various geometries in a 3D space. This project includes features like:
+
+- Adding random geometries with random colors
+- Creating and manipulating different 3D shapes like cones, spheres, rings, torus, cubes, and pyramids
+- Changing colors of the shapes
+- Toggling wireframe mode
+- Responsive design for different screen sizes
 
 ## 📫 Get in Touch
 
