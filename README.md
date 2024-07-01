@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: JavaScript, HTML, CSS
+- **Languages**:JavaScript, HTML, CSS, Python, Sql 
 - **Frameworks & Libraries**: React, Node.js, Three.js
 - **Tools**: Git, Webpack, Babel, Visual Studio Code
 
