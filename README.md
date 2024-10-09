@@ -24,7 +24,7 @@ Features: Login, product listings, and detailed product pages using React Router
 Security: Implemented secure authentication and authorization with JWT tokens and REST API calls.
 Technologies Used: React JS, JavaScript, CSS, Bootstrap, React Router, REST API, Local Storage, JWT, Authorization, Authentication.
 
-Live Demo:newShopping.ccbp.tech
+Live Demo:https://harihknxttrendz.ccbp.tech
 
 ### 3D Viewer with Three.js
 
