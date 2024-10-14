@@ -26,16 +26,6 @@ Technologies Used: React JS, JavaScript, CSS, Bootstrap, React Router, REST API,
 
 Live Demo:https://harihknxttrendz.ccbp.tech
 
-### 3D Viewer with Three.js
-
-A dynamic 3D viewer that allows you to interact with various geometries in a 3D space. This project includes features like:
-
-- Adding random geometries with random colors
-- Creating and manipulating different 3D shapes like cones, spheres, rings, torus, cubes, and pyramids
-- Changing colors of the shapes
-- Toggling wireframe mode
-- Responsive design for different screen sizes
-
 ## 📫 Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/hari-kumar-senthil)
