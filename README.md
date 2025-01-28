@@ -55,7 +55,7 @@ I’m a **Full Stack Developer** with a passion for solving real-world problems 
 
 ### 🚀 Current Projects
 
-1. **[Real-Time Food Delivery App Clone - Admin Dashboard](http://https://ephemeral-stroopwafel-9da897.netlify.app/login)**:  
+1. **[Real-Time Food Delivery App Clone - Admin Dashboard](https://ephemeral-stroopwafel-9da897.netlify.app)**:  
    A modern admin dashboard for managing real-time food delivery operations with dynamic, user-friendly interfaces.
 
 2. **[E-Commerce Web Application](https://harihknxttrendz.ccbp.tech)**:  
