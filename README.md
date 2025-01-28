@@ -49,7 +49,7 @@ I’m a **Full Stack Developer** with a passion for solving real-world problems 
 
 - [LinkedIn](https://www.linkedin.com/in/hari-kumar-senthil/)
 - [GitHub](https://www.github.com/Harikumar7788)
-- [Portfolio](http://www.Hari.design)
+- [LeetCode](https://leetcode.com/u/1vISfx3Ayu)
 
 ---
 
