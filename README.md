@@ -1,7 +1,7 @@
 # Harikumar Senthil  
 **Full Stack Developer | Passionate Coder | Problem Solver**  
 🌍 Coimbatore, India | ✉️ [harisenthil787@gmail.com](mailto:harisenthil787@gmail.com)  
-🚀 Currently building: [Real-Time Food Delivery App Clone - Admin Dashboard](http://https://ephemeral-stroopwafel-9da897.netlify.app/login)
+
 
 ---
 
@@ -46,9 +46,9 @@ I’m a **Full Stack Developer** who thrives on challenges and loves to create h
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harikumar7788&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)
 
-- **JavaScript** - 45%
-- **TypeScript** - 25%
-- **Python** - 15%
+- **JavaScript** - 55%
+- **TypeScript** - 20%
+- **Python** - 10%
 - **Node.js** - 5%
 - **React** - 5%
 - **Vue.js** - 3%
