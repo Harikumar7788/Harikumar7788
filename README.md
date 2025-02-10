@@ -41,7 +41,7 @@ I’m a **Full Stack Developer** with a passion for solving real-world problems 
 - **Node.js** - 70%
 - **React** - 90%
 - **Vue.js** - 80%
-- **JavaScript** - 40%
+- **JavaScript** - 80%
 
 ---
 
